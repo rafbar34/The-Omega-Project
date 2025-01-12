@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/The-Omega-Project/static/css/main.e9d45024.css",
+    "main.js": "/The-Omega-Project/static/js/main.14c3ccdf.js",
+    "static/media/logo.jpg": "/The-Omega-Project/static/media/logo.16da44bc1250aa8656e3.jpg",
+    "index.html": "/The-Omega-Project/index.html",
+    "main.e9d45024.css.map": "/The-Omega-Project/static/css/main.e9d45024.css.map",
+    "main.14c3ccdf.js.map": "/The-Omega-Project/static/js/main.14c3ccdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9d45024.css",
+    "static/js/main.14c3ccdf.js"
+  ]
+}
